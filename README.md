@@ -1,1 +1,0 @@
-# SQL-portfolio-project
